@@ -15,4 +15,5 @@
 
     var catnipRPT = $(".res-cell resPerTick").val()
     console.log(catnipRPT);
+    alert(catnipRPT)
 })();
